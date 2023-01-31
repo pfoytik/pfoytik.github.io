@@ -13,7 +13,7 @@
 	"kty": "EC",
 	"crv": "secp256k1",
 	"x": "b119754dc0ef978be6a8b6e514a95135f77c375ae473c5f808ea667fa03d4bee",
-	"y": "500acafca45e4638b451b52e46a967961342ffd4a6cc81b218429665c55c97a7",
+	"y": "500acafca45e4638b451b52e46a967961342ffd4a6cc81b218429665c55c97a7"
       } 
     }
   ],
