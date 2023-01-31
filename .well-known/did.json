@@ -10,11 +10,11 @@
       "type": "JsonWebKey2020",
       "controller": "did:web:pfoytik.github.io",
       "publicKeyJwk": {
-	"kty":"EC",
-	"crv":"secp256k1",
-	"x":"sRl1TcDvl4vmqLblFKlRNfd8N1rkc8X4COpmf6A9S+4=",
-	"y":"UArK/KReRji0UbUuRqlnlhNC/9SmzIGyGEKWZcVcl6c=",
-     } 
+	"kty": "EC",
+	"crv": "secp256k1",
+	"x": "sRl1TcDvl4vmqLblFKlRNfd8N1rkc8X4COpmf6A9S+4=",
+	"y": "UArK/KReRji0UbUuRqlnlhNC/9SmzIGyGEKWZcVcl6c=",
+      } 
     }
   ],
   "authentication": [
