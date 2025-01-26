@@ -1,7 +1,7 @@
 include: [".well-known"]
 # main text of home
 title: Peter Foytik
-bio: Researcher and Software Developer supporting Modeling and Simulation, Cyber Security, and Critical Infrastructure applicaitons.
+bio: Researcher and Software Developer supporting Modeling and Simulation, Cyber Security, and Critical Infrastructure applicaitons. Also on nostr at https://njump.me/nprofile1qy2hwumn8ghj7un9d3shjtnwwdjkxtnpwpcz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcqyr784qwyujee0jq0nv7pzdu783ruz30s44n47xhvdkn72ctkckwhyswk5d4
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -39,7 +39,6 @@ twitter: pfoytik
 #instagram: myinstagram
 linkedin: peter-foytik-01ab2812
 github: pfoytik
-nostr: https://njump.me/nprofile1qy2hwumn8ghj7un9d3shjtnwwdjkxtnpwpcz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcqyr784qwyujee0jq0nv7pzdu783ruz30s44n47xhvdkn72ctkckwhyswk5d4
 
 authors:
   pfoytik:
